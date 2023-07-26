@@ -1,0 +1,1 @@
+# sql-hackerank-solution
