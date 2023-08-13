@@ -303,7 +303,7 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 SELECT DISTINCT CITY FROM STATION WHERE (CITY LIKE 'A%' OR CITY LIKE 'E%' OR CITY LIKE 'I%' OR CITY LIKE 'O%' OR CITY LIKE 'U%') AND (CITY LIKE '%a' OR CITY LIKE '%e' OR CITY LIKE '%i' OR CITY LIKE '%o' OR CITY LIKE '%u') order by city;      
 ```
 
-###**[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)**
+#**[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)**
 
 Query the list of CITY names from STATION that do not start with vowels. Your result cannot contain duplicates.
 
